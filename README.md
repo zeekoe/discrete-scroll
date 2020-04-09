@@ -7,8 +7,8 @@ Fix for OS X's scroll wheel problem
 ## Installation
 
 You may download the binary
-[here](https://github.com/emreyolcu/discrete-scroll/releases/download/v0.1.1/DiscreteScroll.zip). It
-runs in the background and allows you to scroll 3 lines with each tick of the
+[here](https://github.com/zeekoe/discrete-scroll/releases/download/0.2/DiscreteScroll.zip). It
+runs in the background and allows you to scroll 6 lines with each tick of the
 wheel.
 
 It needs to be run each time you boot. If you want this to be automatic you
